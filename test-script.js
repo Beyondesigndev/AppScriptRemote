@@ -1,1 +1,1 @@
-alert("connected");
+alert("bd sagt hallo");
